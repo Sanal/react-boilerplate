@@ -23,7 +23,6 @@ module.exports = {
   resolve: {
     extensions: [".js", ".jsx", ".ts", ".tsx", ".json"],
   },
-  watch: true,
   watchOptions: {
     ignored: /node_modules/,
     poll: 1000,
